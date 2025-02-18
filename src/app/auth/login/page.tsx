@@ -58,7 +58,7 @@ export default function LoginPage() {
                 href="/auth/signup"
                 className="text-primary hover:text-primary/90"
               >
-                Don't have an account? Sign up
+                Dont have an account? Sign up
               </Link>
             </div>
           </CardContent>
