@@ -178,7 +178,7 @@ export default function LandingPage() {
               Simple, Transparent Pricing
             </h2>
             <p className="text-muted-foreground">
-              Choose the plan that's right for you
+              Choose the plan thats right for you
             </p>
           </motion.div>
 
