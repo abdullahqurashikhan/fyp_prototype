@@ -56,7 +56,7 @@ export default function ResultView({
       setIsCopied(true);
       toast.success("Link copied to clipboard!");
       setTimeout(() => setIsCopied(false), 2000);
-    } catch (err) {
+    } catch () {
       toast.error("Failed to copy link");
     }
   };
